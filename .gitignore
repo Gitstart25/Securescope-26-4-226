@@ -1,0 +1,11 @@
+# Environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Data & Reports
+reports/*.pdf
+*.csv
+*.json
+!requirements.txt
